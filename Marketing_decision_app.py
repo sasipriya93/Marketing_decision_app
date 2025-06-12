@@ -253,3 +253,7 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
+import streamlit as st
+
+st.title("My First Streamlit App 🚀")
+st.write("Hello! This is a test app.")
